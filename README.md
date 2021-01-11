@@ -1,15 +1,14 @@
 
-# Bot Bumper
-*The first bot to bump your bot's advertisements as well as helping it grow to become famous*
+# Nation
+*The simplest and easiest to use Levelling bot*
 
 ## Welcome
 
-Welcome to the official Bot Bumper repository!  We're so happy you found this repository, whether you accidentally stumbled upon it, searched for it, or anything else!  Please keep reading to familiarize yourself with what this repository is for.
+Welcome to the official Nation repository!  We're so happy you found this repository, whether you accidentally stumbled upon it, searched for it, or anything else!  Please keep reading to familiarize yourself with what this repository is for.
 
 ## Intro
-This repository is mainly an issue tracker and an information hub.  The bot is **not** open sourced as of now, but this may change in the future!  Below are a few useful links relating to this project.
-- [Bot Invite](https://discord.com/oauth2/authorize?client_id=714232404029603950&permissions=1611000881&scope=applications.commands%20bot "Click me to invite the bot to your server!")
-- [Bot Website](https://www.botbumper.ga "Click me to visit the bot's website!")
+This repository is mainly an issue tracker and an information hub.  Below are a few useful links relating to this project.
+- [Bot Invite](https://discord.com/oauth2/authorize?client_id=768380570832338974&scope=bot&permissions=268463168 "Click me to invite the bot to your server!")
 - [Bot Support Server](https://discord.com/invite/7va3rtC "Click me to join the bot's support server!")
 
 ## Bugs
